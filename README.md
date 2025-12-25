@@ -39,9 +39,9 @@ I'm an **Embedded Systems & C++ Developer** building optimized embedded systems 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6E4B9E?style=flat-square)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![RamooIsTaken’s GitHub stats](https://github-readme-stats.vercel.app/api?username=RamooIsTaken&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamooIsTaken&layout=compact&theme=radical)
-
+-->
