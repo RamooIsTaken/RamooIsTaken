@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Remzi (RamooIsTaken)
+# I'm Remzi (RamooIsTaken)
 
 I'm an **Embedded Systems & C++ Developer** building optimized embedded systems and AI/computer vision solutions, with a passion for all areas of Computer Science.
 
