@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 I'm an **Embedded Systems & C++ Developer** building optimized embedded systems and AI/computer vision solutions, with a passion for all areas of Computer Science.
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21hMTJlM3g2bDZ0ZDVpMnh2aG1ydXlyYXI0cjNxYWcwcHNwazExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" alt="Robot Coding" width="400"/>
 
 
 ![Robot Coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21hMTJlM3g2bDZ0ZDVpMnh2aG1ydXlyYXI0cjNxYWcwcHNwazExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif)
