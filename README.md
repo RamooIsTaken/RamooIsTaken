@@ -46,6 +46,9 @@ I'm an **Embedded Systems & C++ Developer** building optimized embedded systems 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamooIsTaken&layout=compact&theme=radical)
 -->
 
+---
+
 ## 📫 Contact
 
-You can reach me via email: [remzi.cakir@hotmail.com](mailto:remzi.cakir@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-remzi.cakir%40hotmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:remzi.cakir@hotmail.com)
+
