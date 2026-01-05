@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21hMTJlM3g2bDZ0ZDVpMnh2aG1ydXlyYXI0cjNxYWcwcHNwazExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" alt="Robot Coding GIF" width="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21hMTJlM3g2bDZ0ZDVpMnh2aG1ydXlyYXI0cjNxYWcwcHNwazExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" alt="Robot Coding GIF" width="450"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Remzi (RamooIsTaken)</h1>
