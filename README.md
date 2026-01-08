@@ -36,5 +36,9 @@ I'm an <strong>Embedded Systems & C++ Developer</strong> building optimized embe
   </a>
 </p>
 
+---
+
+## 🛠️ Skills
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RamooIsTaken?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
