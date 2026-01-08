@@ -36,8 +36,9 @@ I'm an <strong>Embedded Systems & C++ Developer</strong> building optimized embe
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/RamooIsTaken&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=RamooIsTaken&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/RamooIsTaken&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamooIsTaken&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/RamooIsTaken&theme=default" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamooIsTaken&theme=default" alt="GitHub Streak" />
+
