@@ -74,9 +74,6 @@ I'm an <strong>Embedded Systems & C++ Developer</strong> building optimized embe
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RamooIsTaken&icon=0&color=0" />
-</p>
 
 
 
