@@ -42,3 +42,7 @@ I'm an <strong>Embedded Systems & C++ Developer</strong> building optimized embe
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RamooIsTaken?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
+![](https://github-readme-stats.vercel.app/api?username=RamooIsTaken&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RamooIsTaken&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RamooIsTaken&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
