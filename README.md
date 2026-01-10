@@ -30,11 +30,7 @@ I'm an <strong>Embedded Systems & C++ Developer</strong> building optimized embe
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="mailto:remzi.cakir@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-remzi.cakir%40hotmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:remzi.cakir@hotmail.com) 
 
 <p align="left">
 <a href="https://linkedin.com/in/remzicakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="remzicakir" height="30" width="40" /></a>
