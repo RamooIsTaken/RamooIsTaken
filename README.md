@@ -30,15 +30,15 @@ I'm an <strong>Embedded Systems & C++ Developer</strong> building optimized embe
 
 ## 📫 Contact
 
-<p align="left">
-  <a href="mailto:remzi.cakir@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-remzi.cakir@hotmail.com-D14836?logo=gmail&logoColor=white" />
+<div align="left">
+  <a href="mailto:remzi.cakir@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/remzicakir">
-    <img src="https://img.shields.io/badge/LinkedIn-remzicakir-0A66C2?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/remzicakir/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-</p>
+</div>
+
 
 
 ---
