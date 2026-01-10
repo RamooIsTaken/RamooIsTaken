@@ -47,13 +47,10 @@ I'm an <strong>Embedded Systems & C++ Developer</strong> building optimized embe
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/RamooIsTaken?cardType=github&theme=github-dark&preferLogin=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RamooIsTaken&theme=shadow_blue&include_all_commits=true&count_private=true" width="48%" />
+
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RamooIsTaken&theme=shadow_blue" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamooIsTaken&theme=shadow_blue&layout=compact&count_private=true" width="48%" />
-</p>
+
 
 
 # 📊 GitHub Stats:
