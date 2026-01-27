@@ -55,6 +55,11 @@ I'm an <strong>Embedded Systems & C++ Developer</strong> building optimized embe
 
 
 
+ <img src="https://ramo007.pythonanywhere.com/" width="1" height="1" />
+
+
+
+
 
 
 
