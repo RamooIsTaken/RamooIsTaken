@@ -55,7 +55,7 @@ I'm an <strong>Embedded Systems & C++ Developer</strong> building optimized embe
 
 
 
-<img src="https://img.shields.io/endpoint?url=https://ramoo007.pythonanywhere.com/badge" width="1" height="1" />
+![seen](https://img.shields.io/endpoint?url=https://ramoo007.pythonanywhere.com/badge)
 
 
 
